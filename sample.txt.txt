@@ -1,0 +1,5 @@
+Hello
+Characteristics of a Good SRS
+A good SRS document has certain characteristics that must be present. Thecharacteristics are:1.
+Correctness:
+             An SRS is correct if every requirement included in the SRSrepresents something required in the final system.2.
